@@ -1,2 +1,2 @@
 "second commit" 
-Step 3 says to make a meaningful change to the file and commit it to the local repository.
+Step 4 - Adding additional changes to commit in the new feature-branch
