@@ -1,1 +1,2 @@
 "second commit" 
+Step 4 - Adding additional changes to commit in the new feature-branch
